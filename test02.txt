@@ -5,5 +5,7 @@ add local
 cehsi anti-conflict local conflict !!!!
 local conflict  xxxxxxREMOTE
 remote conflict  xxxREMOTE
+local conflict  xxxlocal
+remote conflict  xxxlocal
 add remote
 cehsi anti-conflict remote conflict  xxx
