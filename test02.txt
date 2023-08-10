@@ -1,2 +1,5 @@
 cehsi anti-conflict local conflict  xxx
 local conflict  xxx
+remote conflict  xxx
+
+cehsi anti-conflict remote conflict  xxx
