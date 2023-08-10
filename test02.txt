@@ -3,7 +3,7 @@ local conflict  xxx
 remote conflict  xxx
 add local
 cehsi anti-conflict local conflict !!!!
-local conflict  xxx
-remote conflict  xxx
+local conflict  xxxxxxREMOTE
+remote conflict  xxxREMOTE
 add remote
 cehsi anti-conflict remote conflict  xxx
