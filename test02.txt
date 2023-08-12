@@ -8,4 +8,5 @@ remote conflict  xxxREMOTE
 local conflict  xxxlocal
 remote conflict  xxxlocal
 add remotetets
+add remote
 cehsi anti-conflict remote conflict  xxx
